@@ -1,16 +1,18 @@
-## Hi there 👋
+## E ai gurizada 😀, eu sou o Thomas
 
-<!--
-**Thom-alb/Thom-alb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/Thom-alb">
+  <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=thom-alb&show_icons=true&theme=great-gatsby"/>
+    <img height="180em" width="440em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thom-alb&layout=compact&theme=great-gatsby"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<--
+monokai
+tokyonight
+great-gatsby
+darcula
+gotham
+midnight-purple
+holi
 -->
