@@ -15,5 +15,5 @@ Sou um estudante entusiasta de tecnologia e programação :D
 <div>
   <a href="https://github.com/Thom-alb">
   <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=thom-alb&show_icons=true&theme=great-gatsby"/>
-    <img height="180em" width="440em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thom-alb&layout=compact&theme=great-gatsby"/>
+    <img height="180em" width="440em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thom-alb&langs_count=6&layout=compact&theme=great-gatsby"/>
 </div>
