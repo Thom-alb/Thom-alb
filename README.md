@@ -5,11 +5,11 @@ Sou um estudante entusiasta de tecnologia e programação :D
 
 <div align="center" >
   <p>
-  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg" width="600"/>
+  <img src="https://raw.githubusercontent.com/Thom-alb/Thom-alb/main/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg" width="600"/>
     </p>
   <p>
-  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/3-stats.svg" width="299" />
-  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/1-repos-per-language.svg" width="299"/>
+  <img src="https://raw.githubusercontent.com/Thom-alb/Thom-alb/main/profile-summary-card-output/vision_friendly_dark/3-stats.svg" width="299" />
+  <img src="https://raw.githubusercontent.com/Thom-alb/Thom-alb/main/profile-summary-card-output/vision_friendly_dark/1-repos-per-language.svg" width="299"/>
   </p>
 </div>
 
