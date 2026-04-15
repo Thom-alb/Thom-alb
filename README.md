@@ -1,16 +1,16 @@
 ## E ai gurizada 😀, eu sou o Thomas
 Sou um estudante entusiasta de tecnologia e programação :D
-
 *Ainda estou me acostumando ao git e github, logo compartilharei mais repositórios*
 
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Thom-alb}&theme={vision_friendly_dark}
+
+
+vision_friendly_dark
 #### Linguagens
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> &nbsp;
-#### Aprendendo e aplicando
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"  width="40" height="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/> &nbsp;
-<div href="https://github.com/Thom-alb">
-</div>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,js,html,css)
+
+#### Frameworks e Ferrametas
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tailwindcss,nodejs,spring)
+
+#### Aprendendo e Aplicando
+
