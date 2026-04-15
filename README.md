@@ -3,11 +3,15 @@ Sou um estudante entusiasta de tecnologia e programação :D
 
 *Ainda estou me acostumando ao git e github, logo compartilharei mais repositórios*
 
-<p align="center" >
-  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg" width="700"/>
-  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/3-stats.svg" width="349" />
-  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/1-repos-per-language.svg" width="349"/>
-</p>
+<div align="center" >
+  <p>
+  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg" width="600"/>
+    </p>
+  <p>
+  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/3-stats.svg" width="299" />
+  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/1-repos-per-language.svg" width="299"/>
+  </p>
+</div>
 
 <div align="center">
   <table border="0">
