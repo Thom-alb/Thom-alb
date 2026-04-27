@@ -4,14 +4,12 @@ Sou um estudante entusiasta de tecnologia e programação :D
 *Ainda estou me acostumando ao git e github, logo compartilharei mais repositórios*
 
 <div align="center" >
-  <p>
-  <img src="https://raw.githubusercontent.com/Thom-alb/Thom-alb/main/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg" width="600"/>
-    </p>
-  <p>
-  <img src="https://raw.githubusercontent.com/Thom-alb/Thom-alb/main/profile-summary-card-output/vision_friendly_dark/3-stats.svg" width="299" />
-  <img src="https://raw.githubusercontent.com/Thom-alb/Thom-alb/main/profile-summary-card-output/vision_friendly_dark/1-repos-per-language.svg" width="299"/>
-  </p>
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thom-alb&theme=great_gatsby)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thom-alb&theme=great_gatsby)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thom-alb&theme=great_gatsby)
 </div>
+
 
 <div align="center">
   <table border="0">
