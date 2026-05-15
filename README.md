@@ -1,7 +1,8 @@
-## E ai gurizada 😀, eu sou o Thomas
-Sou um estudante entusiasta de tecnologia e programação :D
+## Hi 😀, i am Thomas.
 
-*Ainda estou me acostumando ao git e github, logo compartilharei mais repositórios*
+IT student and technology and programming enthusiast
+
+*I'm still getting used to Git and GitHub, I'll be sharing more repositories soon.*
 
 <div align="center" >
   
