@@ -6,9 +6,8 @@ IT student and technology and programming enthusiast
 
 <div align="center" >
   
-![](https://github-stats-extended.vercel.app/api?username=Thom-alb&show_icons=true&include_all_commits=true&theme=midnight-purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thom-alb&theme=great_gatsby)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thom-alb&theme=great_gatsby)
+![](https://github-stats-extended.vercel.app/api?username=Thom-alb&heigth=350&show_icons=true&include_all_commits=true&theme=shadow_red)
+![](https://github-stats-extended.vercel.app/api/top-langs?username=Thom-alb&heigth=350&langs_count=3&theme=shadow_red)
 </div>
 
 <div align="center">
