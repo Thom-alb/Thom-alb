@@ -2,7 +2,7 @@
 
 IT student and technology and programming enthusiast
 
-<h2>About Me:</h2>
+About Me:
  I start my journey on programming early 2025, from algorithm to HTML and POO to API Rest, BackEnd and FrontEnd and some DataBase, i like to program and try some ideas, here you can see most of my projects and studies, i have a lot to share and talk and even more to know about, and now you know about me
 
 <div align="center" >
