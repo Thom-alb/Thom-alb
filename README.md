@@ -1,8 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?color=A31414&pause=2000&lines=Hi+😀,+i+am+Thomas+an+FullStack+Dev;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-IT student and technology and programming enthusiast
-
 ## About Me:
+
+IT student and technology and programming enthusiast
 
 I start my journey on programming early 2025, from algorithm to HTML and POO to API Rest, BackEnd and FrontEnd and some DataBase, i like to program and try some ideas, here you can see most of my projects and studies, i have a lot to share and talk and even more to know about, and now you know about me
 
