@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=ba2b2b&pause=500&lines=Hi+😀,+I'm+Thomas;Full-Stack+Developer;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-## 👋 Olá, meu nome é Thomas! Sou apaixonado por desenvolvimento de software.:
+## 👋 Olá, meu nome é Thomas! Sou apaixonado por desenvolvimento de software:
 
 - 💻 **Desenvolvedor Full-Stack**, atuando da construção de APIs robustas no Back-End às interfaces no Front-End
 - 🩺 **Atualmente desenvolvendo o AjudAVC**, uma aplicação para auxílio, suporte e gestão de rotina de cuidadores
@@ -11,7 +11,6 @@ Minha jornada na programação começou no início de 2025. Desde então, passei
 Aqui você pode explorar a maioria dos meus projetos e estudos. Sinta-se à vontade para se conectar ou entrar em contato!
 
 ## 🛠️ Stacks & Ferramentas
-
 **Linguagens & Web**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,9 +29,16 @@ Aqui você pode explorar a maioria dos meus projetos e estudos. Sinta-se à vont
 
 **Ferramentas & Ambiente**  
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+**Atualmente Aprendendo & Explorando**
+
+![Spring Tools](https://img.shields.io/badge/Spring%20Tools%204-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -42,7 +48,7 @@ Aqui você pode explorar a maioria dos meus projetos e estudos. Sinta-se à vont
 
 ## 🌐 Conecte-se comigo:
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/thomas-albeche/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -51,6 +57,7 @@ Aqui você pode explorar a maioria dos meus projetos e estudos. Sinta-se à vont
   </a>
 </div>
 
-<div align="center" style="width: 650px; height: 140px; overflow: hidden; margin: 0 auto;">
-  <img src="./gatocodas.gif" width="650px" style="margin-top: -140px;" alt="Terminal Programando" />
+<div align="center">
+  <img style="width: 650px; height: 280px; overflow: hidden; margin: 0 auto;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnE4Ymt1dTI0MzNvYmpndnR4OW41YWhpYXk3bndhMWRqbGoyMnA5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="650px" alt="Terminal Coding" />
 </div>
+
