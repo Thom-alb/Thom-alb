@@ -3,8 +3,8 @@
 ## Sobre mim:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=ba2b2b&pause=500&lines=Hi+😀,+I'm+Thomas;Full-Stack+Developer;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="./gatocodas.wepbp" width="650px" alt="gato Programando" />
+<div align="center" style="width: 650px; height: 140px; overflow: hidden; margin: 0 auto;">
+  <img src="./gatocodas.gif" width="650px" style="margin-top: -140px;" alt="Terminal Programando" />
 </div>
 
 👋 Olá, meu nome é Thomas! Sou estudante de TI e apaixonado por desenvolvimento de software.
