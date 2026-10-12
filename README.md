@@ -1,10 +1,10 @@
-<p> 👋 Olá, meu nome é Thomas! Sou estudante de TI e apaixonado por desenvolvimento de software.</p>
+<p style="font-size: 56px;"> 👋 Olá, meu nome é Thomas! Sou estudante de TI e apaixonado por desenvolvimento de software.</p>
 
 ## Sobre mim:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=ba2b2b&pause=500&lines=Hi+😀,+I'm+Thomas;Full-Stack+Developer;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="./gatocodas.gif" width="650px" alt="Terminal Programando" />
+  <img src="./gatocodas.wepbp" width="650px" alt="gato Programando" />
 </div>
 
 👋 Olá, meu nome é Thomas! Sou estudante de TI e apaixonado por desenvolvimento de software.
