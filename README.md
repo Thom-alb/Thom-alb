@@ -1,13 +1,6 @@
-<p style="font-size: 56px;"> 👋 Olá, meu nome é Thomas! Sou estudante de TI e apaixonado por desenvolvimento de software.</p>
-
-## Sobre mim:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=ba2b2b&pause=500&lines=Hi+😀,+I'm+Thomas;Full-Stack+Developer;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-<div align="center" style="width: 650px; height: 140px; overflow: hidden; margin: 0 auto;">
-  <img src="./gatocodas.gif" width="650px" style="margin-top: -140px;" alt="Terminal Programando" />
-</div>
-
-👋 Olá, meu nome é Thomas! Sou estudante de TI e apaixonado por desenvolvimento de software.
+## 👋 Olá, meu nome é Thomas! Sou apaixonado por desenvolvimento de software.:
 
 - 💻 **Desenvolvedor Full-Stack**, atuando da construção de APIs robustas no Back-End às interfaces no Front-End
 - 🩺 **Atualmente desenvolvendo o AjudAVC**, uma aplicação para auxílio, suporte e gestão de rotina de cuidadores
@@ -44,7 +37,7 @@ Aqui você pode explorar a maioria dos meus projetos e estudos. Sinta-se à vont
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Thom-alb&show_icons=true&theme=dark&title_color=ba2b2b&icon_color=ba2b2b&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thom-alb&layout=compact&theme=dark&title_color=ba2b2b&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=4" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thom-alb&layout=compact&theme=dark&title_color=ba2b2b&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=6" />
 </div>
 
 ## 🌐 Conecte-se comigo:
@@ -58,4 +51,6 @@ Aqui você pode explorar a maioria dos meus projetos e estudos. Sinta-se à vont
   </a>
 </div>
 
-<br />
+<div align="center" style="width: 650px; height: 140px; overflow: hidden; margin: 0 auto;">
+  <img src="./gatocodas.gif" width="650px" style="margin-top: -140px;" alt="Terminal Programando" />
+</div>
